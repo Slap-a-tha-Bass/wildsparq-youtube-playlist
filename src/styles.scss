@@ -1,8 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
-
 $primary: #320E3B;
 $secondary: #4C2A85;
 $info: #6B7FD7;
 $warning: #3CB2C7;
 $danger: #A90000;
 @import '../node_modules/bootstrap/scss/bootstrap';
+.font {
+    font-family: 'M PLUS 1p', sans-serif;
+}
