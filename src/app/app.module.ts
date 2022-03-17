@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { ButtonComponent } from './components/button/button.component';
-import { PlaylistsComponent } from './components/playlists/playlists.component';
+import { PlaylistsComponent } from './views/playlists/playlists.component';
 
 @NgModule({
   declarations: [
